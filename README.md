@@ -1,5 +1,5 @@
 # PrimerSpy
-Automated small amplicon assay design for PCR/HRM.
+Automated small amplicon assay design for PCR/HRM utilizing PHP and Python backend service.
 
 High-resolution melting is a straightforward technique
 for genotyping that relies on thermodynamic differences of
