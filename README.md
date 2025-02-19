@@ -13,6 +13,8 @@ process. uDesign previously automated sequence retrieval, primer
 design, melting curve predictions for all products, and
 hairpin design if nearest-neighbor symmetry exists.
 
+![image](https://github.com/user-attachments/assets/c82405b7-de4d-476c-9bbd-c007c99d9c19)
+
 Over time, we streamlined the process further and introducted PrimerSPY to replace uDesign.  We removed some of the automated NCBI seq calls.
 
 The original uDesign poster can be found here:
